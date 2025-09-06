@@ -1,8 +1,8 @@
 baseURL: 'https://mywebsite.com/'
-languageCode: 'en-us'
-title: 'My Website'
+languageCode: 'zh-cn'
+title: 'io - wangbm'
 theme: 'terminal'
-timeZone: "Asia/Kolkata"
+timeZone: "Asia/Shanghai"
 menus:
   main:
     - identifier: about
@@ -50,13 +50,13 @@ markup:
 params:
   social:
     - name: github
-      url: https://github.com/myusername
-    - name: x
-      url: https://x.com/myusername
-    - name: youtube
-      url: https://youtube.com/myusername
-    - name: linkedin
-      url: https://linkedin.com/in/myusername
+      url: https://github.com/wangbm
+    # - name: x
+    #   url: https://x.com/myusername
+    # - name: youtube
+    #   url: https://youtube.com/myusername
+    # - name: linkedin
+    #   url: https://linkedin.com/in/myusername
     - name: "buy me a coffee"
       url: https://www.buymeacoffee.com/myusername
   disqus: "mydisquscode"
